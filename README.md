@@ -1,2 +1,2 @@
-# Projekty
+# Projekty/Projects
 Moje projekty/My projects
